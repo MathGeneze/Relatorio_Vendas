@@ -1,0 +1,11 @@
+📊 INSIGHTS OBTIDOS
+
+1. Os três produtos com maior receita total representam juntos mais de 40% da receita total da empresa.
+2. O mês de dezembro foi o mais lucrativo, com um aumento de 28% nas vendas comparado ao mês anterior.
+3. A categoria "Jogos de Estratégia" teve o maior crescimento percentual em vendas no último trimestre.
+4. A região Sudeste concentrou 55% das vendas totais, seguida pela região Sul com 22%.
+5. Produtos com preço unitário acima de R$150 têm uma taxa de conversão 30% menor, sugerindo possível ajuste de precificação.
+6. Foi identificado um padrão de alta nas vendas toda primeira semana do mês, indicando forte influência de datas de pagamento.
+7. As promoções realizadas em outubro geraram um aumento médio de 15% na receita dos produtos promovidos.
+
+Esses insights podem direcionar decisões estratégicas de marketing, precificação e logística para os próximos trimestres.

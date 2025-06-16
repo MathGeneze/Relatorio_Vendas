@@ -1,0 +1,12 @@
+💬 PROMPTS UTILIZADOS
+
+1. "Com base na planilha, quais são os 3 produtos com maior receita total?"
+2. "Liste os meses com maior volume de vendas e destaque possíveis sazonalidades."
+3. "Qual categoria de produto apresentou o maior crescimento nos últimos meses?"
+4. "Quais regiões concentram a maior receita de vendas?"
+5. "Há relação entre o preço unitário e a quantidade vendida?"
+6. "Quais padrões semanais ou mensais podem ser observados nas vendas?"
+7. "Como as promoções impactaram a receita de cada produto?"
+8. "Recomende ações estratégicas com base nas análises da planilha."
+
+Todos os prompts foram refinados e adaptados conforme a resposta das ferramentas de IA para garantir maior precisão nas análises.
