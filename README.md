@@ -59,13 +59,8 @@ Foi interessante também perceber como pequenas mudanças nos prompts podem infl
 
 - 📄 Excel (para análise exploratória)
 - 🤖 ChatGPT (para gerar e interpretar insights)
-- 📚 Curso “Como Utilizar Prompts para Gerar Insights de Relatórios de Vendas” da DIO
 - 🧰 GitHub (para versionamento e documentação)
 
 ## 📌 Conclusão
 
 Este projeto é uma amostra prática de como integrar **inteligência artificial** com **análise de dados**, além de reforçar boas práticas de documentação e comunicação. É uma base sólida para projetos mais avançados no futuro, principalmente em áreas como **Data Analytics, BI e Estratégia de Negócios**.
-
----
-
-Feito com 💻 por Matheus Geneze 🚀
